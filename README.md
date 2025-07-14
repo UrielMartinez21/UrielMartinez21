@@ -45,6 +45,18 @@
 
 ###
 
+<h2 align="left">My social networks</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/uriel-martinez-5597ab1a6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=UrielMartinez21.UrielMartinez21&"  />
 </div>
