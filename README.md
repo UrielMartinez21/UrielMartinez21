@@ -2,15 +2,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">As a professional in Python programming, deep gratification is found in the continuous process of learning and <br>discovery. A thirst for knowledge drives the pursuit of challenging and stimulating roles where acquired skills and <br>expertise can be applied and expanded.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and tools:</h2>
 
 ###
 
